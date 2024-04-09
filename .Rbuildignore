@@ -1,0 +1,4 @@
+^renv$
+^renv\.lock$
+^DTReprex\.Rproj$
+^\.Rproj\.user$
